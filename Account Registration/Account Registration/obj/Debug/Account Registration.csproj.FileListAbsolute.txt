@@ -1,0 +1,11 @@
+C:\Users\Jason User\Documents\Account Registration\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Jason User\Documents\Account Registration\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Jason User\Documents\Account Registration\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmRegistration.resources
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account Registration.pdb
+C:\Users\Jason User\Documents\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
